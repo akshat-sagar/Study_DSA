@@ -1,2 +1,4 @@
-# Study_DSA
-This contains my daily progress of DSA codes and everything I have been practicing for my goals
+# Study DSA
+Daily Progress of my Data Structures and Algorithms journey 
+Day 1 -  
+(14/4/24) 
